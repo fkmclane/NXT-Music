@@ -1,0 +1,20 @@
+Game Over
+#Composer: Koji Kondo
+
+tone 523 22 33
+wait 17
+tone 392 13 16
+wait 33
+tone 330 27 33
+
+tone 440 18 22
+tone 494 18 22
+tone 440 17 21
+tone 415 18 22
+tone 466 18 22
+tone 415 17 21
+
+tone 392 6 8
+tone 349 6 8
+tone 392 95 115
+

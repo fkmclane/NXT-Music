@@ -1,0 +1,17 @@
+Death
+#Composer: Koji Kondo
+keysig C
+tempo 200
+
+note B4 0.5
+note F5 1 staccato
+note F5 0.5
+note F5 0.667
+note E5 0.667
+note D5 0.666
+
+note C5 0.5
+note E4 1 staccato
+note E4 0.5
+note C4 1 staccato
+rest 1

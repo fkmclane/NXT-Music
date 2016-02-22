@@ -1,0 +1,106 @@
+Underwater (1)
+#Composer: Koji Kondo
+#Arranger: The Deku Trombonist
+keysig C
+tempo 220
+
+note D4 1 legato
+note E4 1 legato
+note F#4 1 legato
+
+note G4 1 legato
+note A4 1 legato
+note Bb4 1
+
+note B4 0.5
+note B4 0.5
+note B4 1 staccato
+note B4 1 staccato
+
+note B4 2
+note G4 1
+
+note E5 3
+
+note D#5 3
+
+note E5 3
+
+rest 0.5
+note G4 0.5 legato
+note A4 0.5 legato
+note B4 0.5 legato
+note C5 0.5 legato
+note D5 0.5 legato
+
+note E5 3
+
+note D#5 2
+note F5 1
+
+note E5 3
+
+rest 1
+rest 1
+rest 0.5
+note G4 0.5
+
+note D5 3
+
+note C#5 3
+
+note D5 3
+
+rest 0.5
+note G4 0.5 legato
+note A4 0.5 legato
+note B4 0.5 legato
+note C5 0.5 legato
+note C#5 0.5 legato
+
+note D5 3
+
+note G4 2
+note F5 1
+
+note E5 3
+
+rest 1
+rest 1
+rest 0.5
+note G4 0.5
+
+note G5 3
+
+note G5 3
+
+note G5 3
+
+note G5 1 legato
+note A5 1 staccato
+rest 0.5
+note G5 0.5
+
+note F5 3
+
+note F5 3
+
+note F5 3
+
+note F5 1 legato
+note G5 1 staccato
+rest 0.5
+note F5 0.5
+
+note E5 3
+
+note A4 1 legato
+note B4 1 legato
+note F5 1 legato
+
+note E5 0.5 legato
+note E5 0.5 legato
+note E5 1.5 legato
+note B4 0.5 legato
+
+note C5 3

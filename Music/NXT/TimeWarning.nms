@@ -1,0 +1,23 @@
+Time Warning
+#Composer: Koji Kondo
+
+tone 330 8 10
+
+tone 587 16 20
+tone 587 8 10
+tone 587 16 20
+tone 349 8 10
+tone 622 16 20
+
+tone 622 8 10
+tone 622 16 20
+tone 370 8 10
+tone 659 16 20
+tone 659 8 10
+tone 659 8 10
+
+wait 10
+tone 698 13 20
+wait 10
+tone 698 26 40
+

@@ -1,0 +1,16 @@
+Death
+#Composer: Koji Kondo
+
+tone 494 12 15
+tone 698 20 30
+tone 698 12 15
+tone 698 16 20
+tone 659 16 20
+tone 587 15 19
+
+tone 523 12 15
+tone 330 20 30
+tone 330 12 15
+tone 262 20 30
+wait 30
+
