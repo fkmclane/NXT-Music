@@ -18,7 +18,7 @@ note F4 0.5
 note G4 0.5
 
 note C4 0.5
-note D4 0.5
+note C4 0.5
 note D5 1
 note A4 1
 rest 0.5
@@ -30,7 +30,7 @@ note F4 0.5
 note G4 0.5
 
 note B3 0.5
-note D4 0.5
+note B3 0.5
 note D5 1
 note A4 1
 rest 0.5
@@ -42,7 +42,7 @@ note F4 0.5
 note G4 0.5
 
 note Bb3 0.5
-note D4 0.5
+note Bb3 0.5
 note D5 1
 note A4 1
 rest 0.5
@@ -66,7 +66,7 @@ note F4 0.5
 note G4 0.5
 
 note C4 0.5
-note D4 0.5
+note C4 0.5
 note D5 1
 note A4 1
 rest 0.5
@@ -78,7 +78,7 @@ note F4 0.5
 note G4 0.5
 
 note B3 0.5
-note D4 0.5
+note B3 0.5
 note D5 1
 note A4 1
 rest 0.5
@@ -90,7 +90,7 @@ note F4 0.5
 note G4 0.5
 
 note Bb3 0.5
-note D4 0.5
+note Bb3 0.5
 note D5 1
 note A4 1
 rest 0.5
@@ -116,7 +116,7 @@ note F5 0.5
 note G5 0.5
 
 note C5 0.5
-note D5 0.5
+note C5 0.5
 note D6 1
 note A5 1
 rest 0.5
@@ -127,8 +127,8 @@ note D5 0.5
 note F5 0.5
 note G5 0.5
 
-note B3 0.5
-note D5 0.5
+note B4 0.5
+note B4 0.5
 note D6 1
 note A5 1
 rest 0.5
@@ -139,8 +139,8 @@ note D5 0.5
 note F5 0.5
 note G5 0.5
 
-note Bb3 0.5
-note D5 0.5
+note Bb4 0.5
+note Bb4 0.5
 note D6 1
 note A5 1
 rest 0.5
@@ -164,7 +164,7 @@ note F5 0.5
 note G5 0.5
 
 note C5 0.5
-note D5 0.5
+note C5 0.5
 note D6 1
 note A5 1
 rest 0.5
@@ -175,8 +175,8 @@ note D5 0.5
 note F5 0.5
 note G5 0.5
 
-note B3 0.5
-note D5 0.5
+note B4 0.5
+note B4 0.5
 note D6 1
 note A5 1
 rest 0.5
@@ -187,8 +187,8 @@ note D5 0.5
 note F5 0.5
 note G5 0.5
 
-note Bb3 0.5
-note D5 0.5
+note Bb4 0.5
+note Bb4 0.5
 note D6 1
 note A5 1
 rest 0.5

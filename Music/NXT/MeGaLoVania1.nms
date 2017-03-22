@@ -16,7 +16,7 @@ tone 349 10 12
 tone 392 10 12
 
 tone 262 10 12
-tone 294 10 12
+tone 262 10 12
 tone 587 20 25
 tone 440 20 25
 wait 13
@@ -28,7 +28,7 @@ tone 349 10 12
 tone 392 10 12
 
 tone 247 10 12
-tone 294 10 12
+tone 247 10 12
 tone 587 20 25
 tone 440 20 25
 wait 13
@@ -40,7 +40,7 @@ tone 349 10 12
 tone 392 10 12
 
 tone 233 10 12
-tone 294 10 12
+tone 233 10 12
 tone 587 20 25
 tone 440 20 25
 wait 13
@@ -64,7 +64,7 @@ tone 349 10 12
 tone 392 10 12
 
 tone 262 10 12
-tone 294 10 12
+tone 262 10 12
 tone 587 20 25
 tone 440 20 25
 wait 13
@@ -76,7 +76,7 @@ tone 349 10 12
 tone 392 10 12
 
 tone 247 10 12
-tone 294 10 12
+tone 247 10 12
 tone 587 20 25
 tone 440 20 25
 wait 13
@@ -88,7 +88,7 @@ tone 349 10 12
 tone 392 10 12
 
 tone 233 10 12
-tone 294 10 12
+tone 233 10 12
 tone 587 20 25
 tone 440 20 25
 wait 13
@@ -114,7 +114,7 @@ tone 698 10 12
 tone 784 10 12
 
 tone 523 10 12
-tone 587 10 12
+tone 523 10 12
 tone 1175 20 25
 tone 880 20 25
 wait 13
@@ -125,8 +125,8 @@ tone 587 10 12
 tone 698 10 12
 tone 784 10 12
 
-tone 247 10 12
-tone 587 10 12
+tone 494 10 12
+tone 494 10 12
 tone 1175 20 25
 tone 880 20 25
 wait 13
@@ -137,8 +137,8 @@ tone 587 10 12
 tone 698 10 12
 tone 784 10 12
 
-tone 233 10 12
-tone 587 10 12
+tone 466 10 12
+tone 466 10 12
 tone 1175 20 25
 tone 880 20 25
 wait 13
@@ -162,7 +162,7 @@ tone 698 10 12
 tone 784 10 12
 
 tone 523 10 12
-tone 587 10 12
+tone 523 10 12
 tone 1175 20 25
 tone 880 20 25
 wait 13
@@ -173,8 +173,8 @@ tone 587 10 12
 tone 698 10 12
 tone 784 10 12
 
-tone 247 10 12
-tone 587 10 12
+tone 494 10 12
+tone 494 10 12
 tone 1175 20 25
 tone 880 20 25
 wait 13
@@ -185,8 +185,8 @@ tone 587 10 12
 tone 698 10 12
 tone 784 10 12
 
-tone 233 10 12
-tone 587 10 12
+tone 466 10 12
+tone 466 10 12
 tone 1175 20 25
 tone 880 20 25
 wait 13
