@@ -9,117 +9,117 @@ rest 3
 rest 3
 
 rest 2
-note G3 1 staccato
+note G4 1 staccato
 
-note G3 3
+note G4 3
 
-note C3 1 staccato
-note G3 1 staccato
 note C4 1 staccato
+note G4 1 staccato
+note C5 1 staccato
 
-note B2 1 staccato
-note F#3 1 staccato
 note B3 1 staccato
+note F#4 1 staccato
+note B4 1 staccato
 
-note C3 1 staccato
-note G3 1 staccato
 note C4 1 staccato
+note G4 1 staccato
+note C5 1 staccato
 
-note E3 1 staccato
-note G3 1 staccato
-note C4 1 staccato
-
-note C3 1 staccato
-note G3 1 staccato
-note C4 1 staccato
-
-note B2 1 staccato
-note F#3 1 staccato
-note B3 1 staccato
-
-note C3 1 staccato
-note G3 1 staccato
-note C4 1 staccato
-
-note E3 1 staccato
-note G3 1 staccato
-note C4 1 staccato
-
-note D3 1 staccato
-note G3 1 staccato
-note B3 1 staccato
-
-note C#3 1 staccato
-note F#3 1 staccato
-note A#3 1 staccato
-
-note D3 1 staccato
-note G3 1 staccato
-note B3 1 staccato
-
-note B2 1 staccato
-note D3 1 staccato
-note B3 1 staccato
-
-note D3 1 staccato
-note G3 1 staccato
-note B3 1 staccato
-
-note B2 1 staccato
-note D3 1 staccato
-note B3 1 staccato
-
-note C3 1 staccato
-note G3 1 staccato
-note C4 1 staccato
-
-note G2 1 staccato
-note G3 1 staccato
-note C4 1 staccato
-
-note C3 1 staccato
-note G3 1 staccato
 note E4 1 staccato
+note G4 1 staccato
+note C5 1 staccato
 
-note B2 1 staccato
-note G3 1 staccato
+note C4 1 staccato
+note G4 1 staccato
+note C5 1 staccato
+
+note B3 1 staccato
+note F#4 1 staccato
+note B4 1 staccato
+
+note C4 1 staccato
+note G4 1 staccato
+note C5 1 staccato
+
+note E4 1 staccato
+note G4 1 staccato
+note C5 1 staccato
+
 note D4 1 staccato
+note G4 1 staccato
+note B4 1 staccato
 
-note Bb2 1 staccato
+note C#4 1 staccato
+note F#4 1 staccato
+note A#4 1 staccato
+
+note D4 1 staccato
+note G4 1 staccato
+note B4 1 staccato
+
+note B3 1 staccato
+note D4 1 staccato
+note B4 1 staccato
+
+note D4 1 staccato
+note G4 1 staccato
+note B4 1 staccato
+
+note B3 1 staccato
+note D4 1 staccato
+note B4 1 staccato
+
+note C4 1 staccato
+note G4 1 staccato
+note C5 1 staccato
+
 note G3 1 staccato
-note Db4 1 staccato
+note G4 1 staccato
+note C5 1 staccato
 
-note C#3 1 staccato
-note G3 1 staccato
-note E4 1 staccato
+note C4 1 staccato
+note G4 1 staccato
+note E5 1 staccato
 
-note D3 1 staccato
-note A3 1 staccato
-note F4 1 staccato
+note B3 1 staccato
+note G4 1 staccato
+note D5 1 staccato
 
-note C#3 1 staccato
-note A3 1 staccato
-note F4 1 staccato
+note Bb3 1 staccato
+note G4 1 staccato
+note Db5 1 staccato
+
+note C#4 1 staccato
+note G4 1 staccato
+note E5 1 staccato
+
+note D4 1 staccato
+note A4 1 staccato
+note F5 1 staccato
+
+note C#4 1 staccato
+note A4 1 staccato
+note F5 1 staccato
+
+note C4 1 staccato
+note A4 1 staccato
+note F5 1 staccato
+
+note B3 1 staccato
+note G4 1 staccato
+note F5 1 staccato
 
 note C3 1 staccato
-note A3 1 staccato
-note F4 1 staccato
+note G4 1 staccato
+note E5 1 staccato
 
-note B2 1 staccato
 note G3 1 staccato
-note F4 1 staccato
+note G4 1 staccato
+note G4 1 staccato
 
-note C2 1 staccato
-note G3 1 staccato
-note E4 1 staccato
+note F4 0.5 legato
+note F4 0.5 legato
+note F4 1.5 legato
+note B3 0.5 legato
 
-note G2 1 staccato
-note G3 1 staccato
-note G3 1 staccato
-
-note F3 0.5 legato
-note F3 0.5 legato
-note F3 1.5 legato
-note B2 0.5 legato
-
-note C3 3
+note C4 3
