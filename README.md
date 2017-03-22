@@ -1,15 +1,8 @@
-This repository contains all files used by Team 772 for the FIRST Tech Challenge. A majority of the files are RobotC source files, however there are other files for making music for the NXT.
+This repository contains the NXT music files used by Team 772 for the FIRST Tech Challenge when they still used the NXT bricks. The player program and library are RobotC source files, however the remainder are files for making music.
 
 All code is open source under the MIT License, see `LICENSE` for details. All of the music is copyright by its artist, simplified and reproduced here under fair use.
 
 Below is a list of all of the files and their purposes.
-
-Competition Files
------------------
-- Auto.c: Autonomous mode program containing an autonomous script
-- TeleOp.c: Tele-Operated mode program containing main drive and arm control functions
-- common.h: Various functions useful between Auto.c and TeleOp.c
-- constants.h: Constants to calibrate the programs to the robot and the field
 
 Music Files
 -----------
@@ -27,6 +20,7 @@ Music Folder
 - 1Up.mus: The 1-Up sound from Super Mario Bros.
 - CastleComplete.mus: The level complete sound from Super Mario Bros.
 - Starman.mus: The invincible sound from Super Mario Bros.
+- Even More!
 
 ### NXT ###
 - StillAlive.nms: This was a triumph...
