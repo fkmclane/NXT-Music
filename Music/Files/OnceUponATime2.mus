@@ -1,0 +1,121 @@
+Once Upon A Time (2)
+#Composer: Toby "Radiation" Fox
+keysig F
+tempo 65
+
+#Intro
+
+note F4 2
+note A4 2
+
+note Ab4 2
+note G4 2
+
+note F4 2
+note A4 2
+
+note Ab4 2
+note G4 2
+
+note F4 2
+note A4 2
+
+note Ab4 2
+note G4 1.75
+rest 0.25
+
+#Part 1
+
+note Bb4 0.5
+note F5 0.5
+note G5 0.5
+note F5 0.5
+note Bb4 0.5
+note F5 0.5
+note G5 0.5
+note F5 0.5
+
+note A4 0.5
+note F5 0.5
+note G5 0.5
+note F5 0.5
+note Ab4 0.5
+note F5 0.5
+note G5 0.5
+note F5 0.5
+
+note G4 0.5
+note F5 0.5
+note G5 0.5
+note F5 0.5
+note C5 0.5
+note F5 0.5
+note G5 0.5
+note F5 0.5
+
+note A4 0.5
+note F5 0.5
+note G5 0.5
+note F5 0.5
+note D5 0.5
+note D5 0.5
+note C5 0.5
+note C5 0.5
+
+note Bb4 0.5
+note F5 0.5
+note G5 0.5
+note F5 0.5
+note Bb4 0.5
+note F5 0.5
+note G5 0.5
+note F5 0.5
+
+note A4 0.5
+note F5 0.5
+note G5 0.5
+note F5 0.5
+note Ab4 0.5
+note F5 0.5
+note G5 0.5
+note F5 0.5
+
+note G4 0.5
+note F5 0.5
+note G5 0.5
+note F5 0.5
+note C5 0.5
+note F5 0.5
+note G5 0.5
+note F5 0.5
+
+note A4 0.5
+note F5 0.5
+note G5 0.5
+note F5 0.5
+note D5 0.5
+note D5 0.5
+note C5 0.5
+note C5 0.5
+
+#Part 2
+
+note F5 2
+note G5 2
+
+note B4 2
+note F5 2
+
+note F5 2
+note G5 2
+
+note B4 2
+note F5 2
+
+rest 4
+
+rest 4
+
+rest 4
+
+rest 4

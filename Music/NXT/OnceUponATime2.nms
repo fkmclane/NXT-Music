@@ -1,0 +1,120 @@
+Once Upon A Time (2)
+#Composer: Toby "Radiation" Fox
+
+#Intro
+
+tone 349 153 184
+tone 440 153 184
+
+tone 415 153 184
+tone 392 153 184
+
+tone 349 153 184
+tone 440 153 184
+
+tone 415 153 184
+tone 392 153 184
+
+tone 349 153 184
+tone 440 153 184
+
+tone 415 153 184
+tone 392 134 161
+wait 23
+
+#Part 1
+
+tone 466 38 46
+tone 698 38 46
+tone 784 38 46
+tone 698 38 46
+tone 466 38 46
+tone 698 38 46
+tone 784 38 46
+tone 698 38 46
+
+tone 440 38 46
+tone 698 38 46
+tone 784 38 46
+tone 698 38 46
+tone 415 38 46
+tone 698 38 46
+tone 784 38 46
+tone 698 38 46
+
+tone 392 38 46
+tone 698 38 46
+tone 784 38 46
+tone 698 38 46
+tone 523 38 46
+tone 698 38 46
+tone 784 38 46
+tone 698 38 46
+
+tone 440 38 46
+tone 698 38 46
+tone 784 38 46
+tone 698 38 46
+tone 587 38 46
+tone 587 38 46
+tone 523 38 46
+tone 523 38 46
+
+tone 466 38 46
+tone 698 38 46
+tone 784 38 46
+tone 698 38 46
+tone 466 38 46
+tone 698 38 46
+tone 784 38 46
+tone 698 38 46
+
+tone 440 38 46
+tone 698 38 46
+tone 784 38 46
+tone 698 38 46
+tone 415 38 46
+tone 698 38 46
+tone 784 38 46
+tone 698 38 46
+
+tone 392 38 46
+tone 698 38 46
+tone 784 38 46
+tone 698 38 46
+tone 523 38 46
+tone 698 38 46
+tone 784 38 46
+tone 698 38 46
+
+tone 440 38 46
+tone 698 38 46
+tone 784 38 46
+tone 698 38 46
+tone 587 38 46
+tone 587 38 46
+tone 523 38 46
+tone 523 38 46
+
+#Part 2
+
+tone 698 153 184
+tone 784 153 184
+
+tone 466 153 184
+tone 698 153 184
+
+tone 698 153 184
+tone 784 153 184
+
+tone 466 153 184
+tone 698 153 184
+
+wait 368
+
+wait 368
+
+wait 368
+
+wait 368
+
