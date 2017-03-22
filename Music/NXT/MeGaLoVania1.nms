@@ -1,0 +1,336 @@
+MeGaLoVania (1)
+#Composer: Toby "Radiation" Fox
+
+#Intro
+
+tone 294 10 12
+tone 294 10 12
+tone 587 20 25
+tone 440 20 25
+wait 13
+tone 415 20 25
+tone 392 20 25
+tone 349 20 25
+tone 294 10 12
+tone 349 10 12
+tone 392 10 12
+
+tone 262 10 12
+tone 294 10 12
+tone 587 20 25
+tone 440 20 25
+wait 13
+tone 415 20 25
+tone 392 20 25
+tone 349 20 25
+tone 294 10 12
+tone 349 10 12
+tone 392 10 12
+
+tone 247 10 12
+tone 294 10 12
+tone 587 20 25
+tone 440 20 25
+wait 13
+tone 415 20 25
+tone 392 20 25
+tone 349 20 25
+tone 294 10 12
+tone 349 10 12
+tone 392 10 12
+
+tone 233 10 12
+tone 294 10 12
+tone 587 20 25
+tone 440 20 25
+wait 13
+tone 415 20 25
+tone 392 20 25
+tone 349 20 25
+tone 294 10 12
+tone 349 10 12
+tone 392 10 12
+
+tone 294 10 12
+tone 294 10 12
+tone 587 20 25
+tone 440 20 25
+wait 13
+tone 415 20 25
+tone 392 20 25
+tone 349 20 25
+tone 294 10 12
+tone 349 10 12
+tone 392 10 12
+
+tone 262 10 12
+tone 294 10 12
+tone 587 20 25
+tone 440 20 25
+wait 13
+tone 415 20 25
+tone 392 20 25
+tone 349 20 25
+tone 294 10 12
+tone 349 10 12
+tone 392 10 12
+
+tone 247 10 12
+tone 294 10 12
+tone 587 20 25
+tone 440 20 25
+wait 13
+tone 415 20 25
+tone 392 20 25
+tone 349 20 25
+tone 294 10 12
+tone 349 10 12
+tone 392 10 12
+
+tone 233 10 12
+tone 294 10 12
+tone 587 20 25
+tone 440 20 25
+wait 13
+tone 415 20 25
+tone 392 20 25
+tone 349 20 25
+tone 294 10 12
+tone 349 10 12
+tone 392 10 12
+
+#Part 1
+
+tone 587 10 12
+tone 587 10 12
+tone 1175 20 25
+tone 880 20 25
+wait 13
+tone 831 20 25
+tone 784 20 25
+tone 698 20 25
+tone 587 10 12
+tone 698 10 12
+tone 784 10 12
+
+tone 523 10 12
+tone 587 10 12
+tone 1175 20 25
+tone 880 20 25
+wait 13
+tone 831 20 25
+tone 784 20 25
+tone 698 20 25
+tone 587 10 12
+tone 698 10 12
+tone 784 10 12
+
+tone 247 10 12
+tone 587 10 12
+tone 1175 20 25
+tone 880 20 25
+wait 13
+tone 831 20 25
+tone 784 20 25
+tone 698 20 25
+tone 587 10 12
+tone 698 10 12
+tone 784 10 12
+
+tone 233 10 12
+tone 587 10 12
+tone 1175 20 25
+tone 880 20 25
+wait 13
+tone 831 20 25
+tone 784 20 25
+tone 698 20 25
+tone 587 10 12
+tone 698 10 12
+tone 784 10 12
+
+tone 587 10 12
+tone 587 10 12
+tone 1175 20 25
+tone 880 20 25
+wait 13
+tone 831 20 25
+tone 784 20 25
+tone 698 20 25
+tone 587 10 12
+tone 698 10 12
+tone 784 10 12
+
+tone 523 10 12
+tone 587 10 12
+tone 1175 20 25
+tone 880 20 25
+wait 13
+tone 831 20 25
+tone 784 20 25
+tone 698 20 25
+tone 587 10 12
+tone 698 10 12
+tone 784 10 12
+
+tone 247 10 12
+tone 587 10 12
+tone 1175 20 25
+tone 880 20 25
+wait 13
+tone 831 20 25
+tone 784 20 25
+tone 698 20 25
+tone 587 10 12
+tone 698 10 12
+tone 784 10 12
+
+tone 233 10 12
+tone 587 10 12
+tone 1175 20 25
+tone 880 20 25
+wait 13
+tone 831 20 25
+tone 784 20 25
+tone 698 20 25
+tone 587 10 12
+tone 698 10 12
+tone 784 10 12
+
+#Part 2
+
+tone 659 2 2
+tone 698 18 22
+tone 698 10 12
+tone 698 16 25
+tone 698 16 25
+tone 659 2 2
+tone 698 22 22
+tone 587 16 25
+tone 587 51 62
+
+tone 698 20 25
+tone 698 10 12
+tone 698 16 25
+tone 784 16 25
+tone 831 20 25
+tone 784 5 6
+tone 831 15 18
+tone 784 8 12
+tone 587 10 12
+tone 698 10 12
+tone 784 30 37
+
+tone 698 20 25
+tone 698 10 12
+tone 698 16 25
+tone 784 16 25
+tone 831 16 25
+tone 880 16 25
+tone 1047 16 25
+tone 880 30 37
+
+tone 1175 20 25
+tone 1175 20 25
+tone 1175 10 12
+tone 880 10 12
+tone 1175 10 12
+tone 1047 93 112
+
+tone 880 20 25
+tone 880 10 12
+tone 880 20 25
+tone 880 20 25
+tone 880 20 25
+tone 784 20 25
+tone 784 51 62
+
+tone 880 20 25
+tone 880 20 25
+tone 880 10 12
+tone 880 16 25
+tone 784 16 25
+tone 880 16 25
+tone 1175 20 25
+tone 880 10 12
+tone 784 20 25
+
+tone 1175 20 25
+tone 880 20 25
+tone 784 20 25
+tone 698 20 25
+tone 1047 20 25
+tone 784 20 25
+tone 698 20 25
+tone 659 20 25
+
+tone 466 20 25
+tone 587 10 12
+tone 659 16 25
+tone 698 16 25
+tone 659 93 112
+
+#Part 3
+
+wait 100
+tone 698 10 12
+tone 587 10 12
+tone 698 10 12
+tone 784 10 12
+tone 831 10 12
+tone 784 10 12
+tone 698 10 12
+tone 587 10 12
+
+tone 831 5 6
+tone 784 5 6
+tone 587 10 12
+tone 698 20 25
+tone 784 93 112
+tone 831 20 25
+tone 880 10 12
+
+tone 1047 20 25
+tone 880 10 12
+tone 831 10 12
+tone 784 10 12
+tone 698 10 12
+tone 587 10 12
+tone 659 10 12
+tone 698 20 25
+tone 784 20 25
+tone 880 20 25
+tone 1047 20 25
+
+tone 1109 20 25
+tone 831 20 25
+tone 880 10 12
+tone 784 10 12
+tone 698 10 12
+tone 784 93 112
+
+tone 294 20 25
+tone 330 20 25
+tone 349 20 25
+tone 698 20 25
+tone 659 41 50
+tone 587 41 50
+
+tone 659 41 50
+tone 698 41 50
+tone 784 41 50
+tone 523 41 50
+
+tone 880 83 100
+tone 880 10 12
+tone 831 10 12
+tone 784 10 12
+tone 740 10 12
+tone 698 10 12
+tone 659 10 12
+tone 622 10 12
+tone 587 10 12
+
+tone 554 83 100
+tone 622 83 100
+

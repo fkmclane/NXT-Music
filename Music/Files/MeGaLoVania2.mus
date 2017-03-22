@@ -1,0 +1,355 @@
+MeGaLoVania (2)
+#Composer: Toby "Radiation" Fox
+keysig C
+tempo 240
+
+#Intro
+
+rest 8
+
+rest 8
+
+rest 8
+
+rest 8
+
+note D4 1 staccato
+note D4 1 staccato
+note D4 0.5
+note D4 0.5
+rest 0.5
+note D4 1 staccato
+note D4 1 staccato
+note D4 0.5
+note D4 0.5
+note D4 0.5
+note D4 1 staccato
+
+note C4 1 staccato
+note C4 1 staccato
+note C4 0.5
+note C4 0.5
+rest 0.5
+note C4 1 staccato
+note C4 1 staccato
+note C4 0.5
+note C4 0.5
+note C4 0.5
+note C4 1 staccato
+
+note B3 1 staccato
+note B3 1 staccato
+note B3 0.5
+note B3 0.5
+rest 0.5
+note B3 1 staccato
+note B3 1 staccato
+note B3 0.5
+note B3 0.5
+note B3 0.5
+note B3 1 staccato
+
+note Bb3 1 staccato
+note Bb3 1 staccato
+note Bb3 0.5
+note Bb3 0.5
+rest 0.5
+note Bb3 1 staccato
+note Bb3 1 staccato
+note Bb3 0.5
+note Bb3 0.5
+note Bb3 0.5
+note Bb3 1 staccato
+
+#Part 1
+
+note D4 1 staccato
+note D4 1 staccato
+note D4 0.5
+note D4 0.5
+rest 0.5
+note D4 1 staccato
+note D4 1 staccato
+note D4 0.5
+note D4 0.5
+note D4 0.5
+note D4 1 staccato
+
+note C4 1 staccato
+note C4 1 staccato
+note C4 0.5
+note C4 0.5
+rest 0.5
+note C4 1 staccato
+note C4 1 staccato
+note C4 0.5
+note C4 0.5
+note C4 0.5
+note C4 1 staccato
+
+note B3 1 staccato
+note B3 1 staccato
+note B3 0.5
+note B3 0.5
+rest 0.5
+note B3 1 staccato
+note B3 1 staccato
+note B3 0.5
+note B3 0.5
+note B3 0.5
+note B3 1 staccato
+
+note Bb3 1 staccato
+note Bb3 1 staccato
+note Bb3 0.5
+note Bb3 0.5
+rest 0.5
+note Bb3 1 staccato
+note Bb3 1 staccato
+note Bb3 0.5
+note Bb3 0.5
+note Bb3 0.5
+note Bb3 1 staccato
+
+note D4 1 staccato
+note D4 1 staccato
+note D4 0.5
+note D4 0.5
+rest 0.5
+note D4 1 staccato
+note D4 1 staccato
+note D4 0.5
+note D4 0.5
+note D4 0.5
+note D4 1 staccato
+
+note C4 1 staccato
+note C4 1 staccato
+note C4 0.5
+note C4 0.5
+rest 0.5
+note C4 1 staccato
+note C4 1 staccato
+note C4 0.5
+note C4 0.5
+note C4 0.5
+note C4 1 staccato
+
+note B3 1 staccato
+note B3 1 staccato
+note B3 0.5
+note B3 0.5
+rest 0.5
+note B3 1 staccato
+note B3 1 staccato
+note B3 0.5
+note B3 0.5
+note B3 0.5
+note B3 1 staccato
+
+note Bb3 1 staccato
+note Bb3 1 staccato
+note Bb3 0.5
+note Bb3 0.5
+rest 0.5
+note Bb3 1 staccato
+note Bb3 1 staccato
+note Bb3 0.5
+note Bb3 0.5
+note Bb3 0.5
+note Bb3 1 staccato
+
+#Part 2
+
+note D4 1 staccato
+note D4 1 staccato
+note D4 0.5
+note D4 0.5
+rest 0.5
+note D4 1 staccato
+note D4 1 staccato
+note D4 0.5
+note D4 0.5
+note D4 0.5
+note D4 1 staccato
+
+note C4 1 staccato
+note C4 1 staccato
+note C4 0.5
+note C4 0.5
+rest 0.5
+note C4 1 staccato
+note C4 1 staccato
+note C4 0.5
+note C4 0.5
+note C4 0.5
+note C4 1 staccato
+
+note B3 1 staccato
+note B3 1 staccato
+note B3 0.5
+note B3 0.5
+rest 0.5
+note B3 1 staccato
+note B3 1 staccato
+note B3 0.5
+note B3 0.5
+note B3 0.5
+note B3 1 staccato
+
+note Bb3 1 staccato
+note Bb3 1 staccato
+note Bb3 0.5
+note Bb3 0.5
+rest 0.5
+note Bb3 1 staccato
+note Bb3 1 staccato
+note Bb3 0.5
+note Bb3 0.5
+note Bb3 0.5
+note Bb3 1 staccato
+
+note D4 0.5
+note D4 0.5
+note D5 1 staccato
+note A4 1 staccato
+rest 0.5
+note Ab4 1 staccato
+note G4 1 staccato
+note F4 1
+note D4 0.5
+note F4 0.5
+note G4 0.5
+
+note C4 0.5
+note C4 0.5
+note D5 1 staccato
+note A4 1 staccato
+rest 0.5
+note Ab4 1 staccato
+note G4 1 staccato
+note F4 1
+note D4 0.5
+note F4 0.5
+note G4 0.5
+
+note B3 0.5
+note B3 0.5
+note D5 1 staccato
+note A4 1 staccato
+rest 0.5
+note Ab4 1 staccato
+note G4 1 staccato
+note F4 1
+note D4 0.5
+note F4 0.5
+note G4 0.5
+
+note Bb3 0.5
+note Bb3 0.5
+note D5 1 staccato
+note A4 1 staccato
+rest 1.5
+note G4 1 staccato
+note F4 1
+note D4 0.5
+note F4 0.5
+note G4 0.5
+
+#Part 3
+
+note Bb3 1 staccato
+note Bb3 1 staccato
+note Bb3 0.5
+note Bb3 0.5
+rest 0.5
+note Bb3 1 staccato
+note Bb3 1 staccato
+note Bb3 0.5
+note Bb3 0.5
+note Bb3 0.5
+note Bb3 1 staccato
+
+note C4 1 staccato
+note C4 1 staccato
+note C4 0.5
+note C4 0.5
+rest 0.5
+note C4 1 staccato
+note C4 1 staccato
+note C4 0.5
+note C4 0.5
+note C4 0.5
+note C4 1 staccato
+
+note D4 1 staccato
+note D4 1 staccato
+note D4 0.5
+note D4 0.5
+rest 0.5
+note D4 1 staccato
+note D4 1 staccato
+note D4 0.5
+note D4 0.5
+note D4 0.5
+note D4 1 staccato
+
+note Db4 1 staccato
+note Db4 1 staccato
+note Db4 0.5
+note Db4 0.5
+rest 0.5
+note Db4 1 staccato
+note Db4 1 staccato
+note Db4 0.5
+note Db4 0.5
+note Db4 0.5
+note Db4 1 staccato
+
+note Bb3 1 staccato
+note Bb3 1 staccato
+note Bb3 0.5
+note Bb3 0.5
+rest 0.5
+note Bb3 1 staccato
+note Bb3 1 staccato
+note Bb3 0.5
+note Bb3 0.5
+note Bb3 0.5
+note Bb3 1 staccato
+
+note C4 1 staccato
+note C4 1 staccato
+note C4 0.5
+note C4 0.5
+rest 0.5
+note C4 1 staccato
+note C4 1 staccato
+note C4 0.5
+note C4 0.5
+note C4 0.5
+note C4 1 staccato
+
+note D4 1 staccato
+note D4 1 staccato
+note D4 0.5
+note D4 0.5
+rest 0.5
+note D4 1 staccato
+note D4 1 staccato
+note D4 0.5
+note D4 0.5
+note D4 0.5
+note D4 1 staccato
+
+note Db4 1 staccato
+note Db4 1 staccato
+note Db4 0.5
+note Db4 0.5
+rest 0.5
+note Db4 1 staccato
+note Db4 1 staccato
+note Db4 0.5
+note Db4 0.5
+note Db4 0.5
+note Db4 1 staccato

@@ -1,0 +1,354 @@
+MeGaLoVania (2)
+#Composer: Toby "Radiation" Fox
+
+#Intro
+
+wait 200
+
+wait 200
+
+wait 200
+
+wait 200
+
+tone 294 16 25
+tone 294 16 25
+tone 294 10 12
+tone 294 10 12
+wait 13
+tone 294 16 25
+tone 294 16 25
+tone 294 10 12
+tone 294 10 12
+tone 294 10 12
+tone 294 16 25
+
+tone 262 16 25
+tone 262 16 25
+tone 262 10 12
+tone 262 10 12
+wait 13
+tone 262 16 25
+tone 262 16 25
+tone 262 10 12
+tone 262 10 12
+tone 262 10 12
+tone 262 16 25
+
+tone 247 16 25
+tone 247 16 25
+tone 247 10 12
+tone 247 10 12
+wait 13
+tone 247 16 25
+tone 247 16 25
+tone 247 10 12
+tone 247 10 12
+tone 247 10 12
+tone 247 16 25
+
+tone 233 16 25
+tone 233 16 25
+tone 233 10 12
+tone 233 10 12
+wait 13
+tone 233 16 25
+tone 233 16 25
+tone 233 10 12
+tone 233 10 12
+tone 233 10 12
+tone 233 16 25
+
+#Part 1
+
+tone 294 16 25
+tone 294 16 25
+tone 294 10 12
+tone 294 10 12
+wait 13
+tone 294 16 25
+tone 294 16 25
+tone 294 10 12
+tone 294 10 12
+tone 294 10 12
+tone 294 16 25
+
+tone 262 16 25
+tone 262 16 25
+tone 262 10 12
+tone 262 10 12
+wait 13
+tone 262 16 25
+tone 262 16 25
+tone 262 10 12
+tone 262 10 12
+tone 262 10 12
+tone 262 16 25
+
+tone 247 16 25
+tone 247 16 25
+tone 247 10 12
+tone 247 10 12
+wait 13
+tone 247 16 25
+tone 247 16 25
+tone 247 10 12
+tone 247 10 12
+tone 247 10 12
+tone 247 16 25
+
+tone 233 16 25
+tone 233 16 25
+tone 233 10 12
+tone 233 10 12
+wait 13
+tone 233 16 25
+tone 233 16 25
+tone 233 10 12
+tone 233 10 12
+tone 233 10 12
+tone 233 16 25
+
+tone 294 16 25
+tone 294 16 25
+tone 294 10 12
+tone 294 10 12
+wait 13
+tone 294 16 25
+tone 294 16 25
+tone 294 10 12
+tone 294 10 12
+tone 294 10 12
+tone 294 16 25
+
+tone 262 16 25
+tone 262 16 25
+tone 262 10 12
+tone 262 10 12
+wait 13
+tone 262 16 25
+tone 262 16 25
+tone 262 10 12
+tone 262 10 12
+tone 262 10 12
+tone 262 16 25
+
+tone 247 16 25
+tone 247 16 25
+tone 247 10 12
+tone 247 10 12
+wait 13
+tone 247 16 25
+tone 247 16 25
+tone 247 10 12
+tone 247 10 12
+tone 247 10 12
+tone 247 16 25
+
+tone 233 16 25
+tone 233 16 25
+tone 233 10 12
+tone 233 10 12
+wait 13
+tone 233 16 25
+tone 233 16 25
+tone 233 10 12
+tone 233 10 12
+tone 233 10 12
+tone 233 16 25
+
+#Part 2
+
+tone 294 16 25
+tone 294 16 25
+tone 294 10 12
+tone 294 10 12
+wait 13
+tone 294 16 25
+tone 294 16 25
+tone 294 10 12
+tone 294 10 12
+tone 294 10 12
+tone 294 16 25
+
+tone 262 16 25
+tone 262 16 25
+tone 262 10 12
+tone 262 10 12
+wait 13
+tone 262 16 25
+tone 262 16 25
+tone 262 10 12
+tone 262 10 12
+tone 262 10 12
+tone 262 16 25
+
+tone 247 16 25
+tone 247 16 25
+tone 247 10 12
+tone 247 10 12
+wait 13
+tone 247 16 25
+tone 247 16 25
+tone 247 10 12
+tone 247 10 12
+tone 247 10 12
+tone 247 16 25
+
+tone 233 16 25
+tone 233 16 25
+tone 233 10 12
+tone 233 10 12
+wait 13
+tone 233 16 25
+tone 233 16 25
+tone 233 10 12
+tone 233 10 12
+tone 233 10 12
+tone 233 16 25
+
+tone 294 10 12
+tone 294 10 12
+tone 587 16 25
+tone 440 16 25
+wait 13
+tone 415 16 25
+tone 392 16 25
+tone 349 20 25
+tone 294 10 12
+tone 349 10 12
+tone 392 10 12
+
+tone 262 10 12
+tone 262 10 12
+tone 587 16 25
+tone 440 16 25
+wait 13
+tone 415 16 25
+tone 392 16 25
+tone 349 20 25
+tone 294 10 12
+tone 349 10 12
+tone 392 10 12
+
+tone 247 10 12
+tone 247 10 12
+tone 587 16 25
+tone 440 16 25
+wait 13
+tone 415 16 25
+tone 392 16 25
+tone 349 20 25
+tone 294 10 12
+tone 349 10 12
+tone 392 10 12
+
+tone 233 10 12
+tone 233 10 12
+tone 587 16 25
+tone 440 16 25
+wait 38
+tone 392 16 25
+tone 349 20 25
+tone 294 10 12
+tone 349 10 12
+tone 392 10 12
+
+#Part 3
+
+tone 233 16 25
+tone 233 16 25
+tone 233 10 12
+tone 233 10 12
+wait 13
+tone 233 16 25
+tone 233 16 25
+tone 233 10 12
+tone 233 10 12
+tone 233 10 12
+tone 233 16 25
+
+tone 262 16 25
+tone 262 16 25
+tone 262 10 12
+tone 262 10 12
+wait 13
+tone 262 16 25
+tone 262 16 25
+tone 262 10 12
+tone 262 10 12
+tone 262 10 12
+tone 262 16 25
+
+tone 294 16 25
+tone 294 16 25
+tone 294 10 12
+tone 294 10 12
+wait 13
+tone 294 16 25
+tone 294 16 25
+tone 294 10 12
+tone 294 10 12
+tone 294 10 12
+tone 294 16 25
+
+tone 277 16 25
+tone 277 16 25
+tone 277 10 12
+tone 277 10 12
+wait 13
+tone 277 16 25
+tone 277 16 25
+tone 277 10 12
+tone 277 10 12
+tone 277 10 12
+tone 277 16 25
+
+tone 233 16 25
+tone 233 16 25
+tone 233 10 12
+tone 233 10 12
+wait 13
+tone 233 16 25
+tone 233 16 25
+tone 233 10 12
+tone 233 10 12
+tone 233 10 12
+tone 233 16 25
+
+tone 262 16 25
+tone 262 16 25
+tone 262 10 12
+tone 262 10 12
+wait 13
+tone 262 16 25
+tone 262 16 25
+tone 262 10 12
+tone 262 10 12
+tone 262 10 12
+tone 262 16 25
+
+tone 294 16 25
+tone 294 16 25
+tone 294 10 12
+tone 294 10 12
+wait 13
+tone 294 16 25
+tone 294 16 25
+tone 294 10 12
+tone 294 10 12
+tone 294 10 12
+tone 294 16 25
+
+tone 277 16 25
+tone 277 16 25
+tone 277 10 12
+tone 277 10 12
+wait 13
+tone 277 16 25
+tone 277 16 25
+tone 277 10 12
+tone 277 10 12
+tone 277 10 12
+tone 277 16 25
+
