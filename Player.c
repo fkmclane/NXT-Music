@@ -12,7 +12,7 @@ task main() {
 
 	TFileHandle file; //For saving info about each file
 	TFileIOResult result;
-	int size;
+	short size;
 
 	string filename[16]; //To store filenames
 
@@ -29,8 +29,10 @@ task main() {
 		nxtDisplayCenteredTextLine(4, "No music files");
 		nxtDisplayCenteredTextLine(5, "found");
 
-		while(nNxtButtonPressed != 3); //Wait for button press
-		while(nNxtButtonPressed == 3); //And unpress
+		while(nNxtButtonPressed != 3) //Wait for button press
+			abortTimeslice();
+		while(nNxtButtonPressed == 3) //And unpress
+			abortTimeslice();
 
 		return; //And quit
 	}
@@ -51,9 +53,11 @@ task main() {
 			nxtDisplayCenteredTextLine(5, "%s", filename[num]); //Display the filename
 		}
 	}
-	while(nNxtButtonPressed == 3); //Wait for unpress
+	while(nNxtButtonPressed == 3) //Wait for unpress
+		abortTimeslice();
 
 	setSong(filename[num]); //Set the song
 	play(); //And play it
-	while(playing); //Wait until the end
+	while(playing) //Wait until the end
+		abortTimeslice();
 }

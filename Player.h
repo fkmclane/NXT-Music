@@ -17,18 +17,20 @@ unsigned short speed = 100; //Song speed
 
 TFileHandle file; //Song file
 TFileIOResult result; //IO result
-int size; //File size
+short size; //File size
 int fileptr; //Current byte in file
 
 //Song functions
 
 void tone(unsigned short frequency, unsigned short duration) {
-	while(paused); //If paused, wait before tone
-	PlayTone(frequency, duration * 100 / speed); //Speed is percentage out of 100
+	while(paused) //If paused, wait before tone
+		abortTimeslice();
+	playTone(frequency, duration * 100 / speed); //Speed is percentage out of 100
 }
 
-void wait(unsigned short cs) {
-	while(paused);
+void rest(unsigned short cs) {
+	while(paused)
+		abortTimeslice();
 	wait10Msec(cs * 100 / speed);
 }
 
@@ -70,7 +72,8 @@ task control() {
 				nxtDisplayTextLine(7, "[]volume: %d  ", nVolume);
 			}
 		}
-		while(nNxtButtonPressed == 3); //Wait for center button to be unpressed
+		while(nNxtButtonPressed == 3) //Wait for center button to be unpressed
+			abortTimeslice();
 
 		nxtDisplayTextLine(7, "[]speed: %d ", speed);
 
@@ -87,7 +90,8 @@ task control() {
 				nxtDisplayTextLine(7, "[]speed: %d ", speed);
 			}
 		}
-		while(nNxtButtonPressed == 3);
+		while(nNxtButtonPressed == 3)
+			abortTimeslice();
 	}
 }
 
@@ -124,12 +128,12 @@ task player() {
 			int freq, hold, time = 0; //time = 0 for backwards compatibility with songs that do not have it
 			sscanf(param, "%hd %hd %hd", &freq, &hold, &time); //Get the frequency and the time to play it out of a total wait time
 			tone(freq, hold);
-			wait(time);
+			rest(time);
 		}
 		else if(strcmp(cmd, "wait") == 0) { //Rest for a time
 			int time;
 			sscanf(param, "%hd", &time); //Get the rest time
-			wait(time);
+			rest(time);
 		}
 		else if(strcmp(cmd, "write") == 0) { //Write lyrics onto the display
 			int line;
@@ -167,12 +171,12 @@ void play() {
 
 	if(display) { //And if using the display, clear it, display controls, and display the song name
 		clear();
-		StartTask(control);
+		startTask(control);
 		nxtDisplayCenteredTextLine(3, "Playing:");
 		nxtDisplayCenteredTextLine(4, name);
 	}
 
-	StartTask(player); //Start the parser
+	startTask(player); //Start the parser
 }
 
 void pause() {
@@ -188,10 +192,10 @@ void stop() {
 
 	playing = false; //Stop playing
 
-	StopTask(player); //Stop the parser
+	stopTask(player); //Stop the parser
 
 	if(display) { //And remove controls and clear screen if done
-		StopTask(control);
+		stopTask(control);
 		wait10Msec(20);
 		clear();
 	}
