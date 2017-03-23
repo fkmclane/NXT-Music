@@ -14,7 +14,7 @@ task main() {
 	TFileIOResult result;
 	short size;
 
-	string filename[16]; //To store filenames
+	string filename[24]; //To store filenames
 
 	//Fill up the array with filenames
 	int files = 0;
